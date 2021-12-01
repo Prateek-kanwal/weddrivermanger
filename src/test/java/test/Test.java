@@ -30,6 +30,8 @@ for(char c:str.toCharArray()) {
 	System.out.print(c);
 }
 }
+System.out.print("hello");
 	}
-
+	
+	
 }
